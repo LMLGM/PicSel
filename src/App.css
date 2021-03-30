@@ -1,0 +1,11 @@
+@import '~antd/dist/antd.css';
+.check-left {
+  position: absolute;
+  left: 22;
+  top: 0;
+  z-index: 2;
+}
+
+.ColStyle {
+  position: relative;
+}
